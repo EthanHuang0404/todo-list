@@ -1,9 +1,10 @@
-A todo list with basic CRUD (Create, Read, Update, Delete) functionalities, and store the data in Firebase.
+A todo list with basic CRUD (Create, Read, Update, Delete) functionalities, including an additional feature for grouping tasks, and storing the data in Firebase.
 
-![Fig. 1, Adding a todo on the frontend.](https://github.com/EthanHuang0404/todo-list/assets/52795694/4012d7d5-d97a-4b71-acad-dfe8415d84b2)  
-Fig. 1, Adding a todo on the frontend.  
+<img width="600" alt="image" src="https://github.com/EthanHuang0404/todo-list/assets/52795694/37b05fb8-c513-4214-9f00-d5548eb33e9a">
+<p>Fig. 1, Adding todos with grouping functionality.</p>
 <br/>
 
-![Fig. 2, The firebase backend received the data from the frontend successfully.](https://github.com/EthanHuang0404/todo-list/assets/52795694/26f0f8f2-2244-4ad3-aedc-69091a2e3982)  
-Fig. 2, The firebase backend received the data from the frontend successfully.
+<img width="1000" alt="image" src="https://github.com/EthanHuang0404/todo-list/assets/52795694/ec4487e0-6cc2-4a68-9aba-9c5ee05849cc">
+<p>Fig. 2, The Firebase backend received the data from the frontend successfully.</p>
+
 
