@@ -1,8 +1,9 @@
-# React + Vite
+A todo list with basic CRUD (Create, Read, Update, Delete) functionalities, and store the data in Firebase.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Fig. 1, Adding a todo on the frontend.](https://github.com/EthanHuang0404/todo-list/assets/52795694/4012d7d5-d97a-4b71-acad-dfe8415d84b2)  
+Fig. 1, Adding a todo on the frontend.  
+<br/>
 
-Currently, two official plugins are available:
+![Fig. 2, The firebase backend received the data from the frontend successfully.](https://github.com/EthanHuang0404/todo-list/assets/52795694/26f0f8f2-2244-4ad3-aedc-69091a2e3982)  
+Fig. 2, The firebase backend received the data from the frontend successfully.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
